@@ -1,0 +1,25 @@
+{
+  "name": "mongoose-codex-getting-started",
+  "version": "1.0.0",
+  "description": "Mongoose Codex demo project : Getting Started",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pantao/mongoose-codex-getting-started.git"
+  },
+  "keywords": [
+    "Mongoose"
+  ],
+  "author": "pantao <54778899@qq.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pantao/mongoose-codex-getting-started/issues"
+  },
+  "homepage": "https://github.com/pantao/mongoose-codex-getting-started#readme",
+  "dependencies": {
+    "mongoose": "^4.11.7"
+  }
+}
